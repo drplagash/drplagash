@@ -29,9 +29,6 @@ I use this space to document my learning path, publish lab-based research, build
 - `crypto-labs`  
   Cryptography exercises, examples and notes.
 
-- `hardware-hacking-lab`  
-  Notes, drivers, experiments and procedures related to hardware security.
-
 - `payload-analysis`  
   Defensive analysis of suspicious payloads, decoding notes, IOCs and detection logic.
 
