@@ -14,3 +14,4 @@ drplagash/ctf-writeups     -> CTFs, DockerLabs and vulnerable machines
 drplagash/cve-lab-pocs     -> CVE analysis and lab-only PoCs
 drplagash/security-tools   -> scripts, parsers and defensive utilities
 drplagash/payload-analysis -> defensive payload analysis and detection notes
+drplagash/CodeBugBox       -> old private backup, pending review
